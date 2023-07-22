@@ -33,11 +33,11 @@ $ git clone git@github.com:holices/foodexplorer-front.git
 
 ---
 
-#### 💻 Para executar o Front-end
+#### 💻 Para executar o Back-end
 
 ```bash
 # Navegue até o diretório do FrontEnd
-$ cd foodexplorer.back
+$ cd foodexplorer-backend
 
 # Instale as dependências necessárias
 $ npm install
