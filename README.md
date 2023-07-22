@@ -37,7 +37,7 @@ $ git clone git@github.com:holices/foodexplorer-front.git
 
 ```bash
 # Navegue até o diretório do FrontEnd
-$ cd foodexplorer-frontend
+$ cd foodexplorer.back
 
 # Instale as dependências necessárias
 $ npm install
@@ -57,4 +57,5 @@ O Front-end foi hospedado diretamente no Netlify. É importante ressaltar que pa
 é necessário que o servidor de backend esteja respondendo e funcionando corretamente.
 
 ⚠ OBS: Devido à hospedagem em um serviço gratuito, o back-end entra em um estado de hibernação após 15 minutos sem uso. Portanto, é possível que haja um atraso de até 1 minuto, dependendo da carga nos servidores do Render.
+
 # foodexplorer.back
