@@ -51,6 +51,10 @@ $ npm run dev
 e-mail: adm@adm.com </br>
 senha: 123456
 
+Em seguida, defina valores iguais para AUTH_SECRET e PORT, no arquivo .gitignore. EX:
+AUTH_SECRET= 3333
+PORT= 3333
+
 ---
 
 O Front-end foi hospedado diretamente no Netlify. É importante ressaltar que para que o front-end funcione perfeitamente,
